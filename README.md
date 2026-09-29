@@ -1,2 +1,2 @@
-# website-tugas-individu
+# Tugas Javascript
 Project website tugas Pemrograman Web
